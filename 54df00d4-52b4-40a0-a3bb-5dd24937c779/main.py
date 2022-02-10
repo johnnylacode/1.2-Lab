@@ -1,3 +1,5 @@
+#Johnny La
+#PSID: 1875393
 
 print('Enter integer:')
 user=int(input())
